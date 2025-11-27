@@ -12,7 +12,6 @@
     <a href="https://github.com/{{author_id}}">
     </a>
     <a href="https://github.com/{{org}}"><img src="https://img.shields.io/badge/@-{{org}}-black"/></a>
-    <a href="https://github.com/{{author_id}}"><img src="https://img.shields.io/badge/by-{{author}}-black"/></a>
 </div>
 
 <div align="center">
