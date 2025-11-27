@@ -1,8 +1,8 @@
 {
 	"name"				: "@{{org}}/{{repo}}",
-	"version"			: "{{version}}",
+	"version"			: "{{vers}}",
 	"description"		: "{{desc}}",
-	"keywords"			: [ "{{keywords}}" ],
+	"keywords"			: "{{kw}}",
 	"license"			: "MIT",
 	"homepage"			: "https://github.com/{{org}}/{{repo}}#readme",
 	"bugs"				: { "url": "https://github.com/{{org}}/{{repo}}/issues" },

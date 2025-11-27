@@ -1,9 +1,15 @@
 {
+  "org"             : "{{org}}",
   "name"            : "{{repo}}",
   "type"            : "{{type}}",
   "version"         : "{{version}}",
-  "description"     : "{{desc}}",
+  "desc"            : "{{desc}}",
+  "kw"              : "{{kw}}",
+  "pm"              : "{{pm}}",
+
   "author"          : "{{author}}",
-  "packageManager"  : "{{pm}}",
+  "author_id"       : "{{author_id}}",
+  "author_email"    : "{{author_email}}",
+
   "createdAt"       : "2025-11-27T02:26:21.875Z"
 }

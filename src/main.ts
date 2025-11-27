@@ -1,7 +1,4 @@
-// main.ts
-//
-// repo   : https://github.com/{{org}}/{{repo}}
-// author : https://github.com/{{author_id}}
+// src/main.ts
 //
 // with ❤️ by {{author}}.
 
