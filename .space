@@ -1,15 +1,24 @@
 {
-  "org"             : "{{org}}",
-  "name"            : "{{repo}}",
-  "type"            : "{{type}}",
-  "version"         : "{{version}}",
-  "desc"            : "{{desc}}",
-  "kw"              : "{{kw}}",
-  "pm"              : "{{pm}}",
+  "type"            : "lib",
+  "template"        : "pure",
+  "pm"              : "bun",
 
-  "author"          : "{{author}}",
-  "author_id"       : "{{author_id}}",
-  "author_email"    : "{{author_email}}",
+  "repo"            : {
+    "org"           : "@solution-dist",
+    "name"          : "lib-pure",
+    "version"       : "0.0.1",
+    "desc"          : "...",
+    "url"           : "https://github.com/solution-dist/lib-pure",
+    "kw"            : [ "..." ],
+    "license"       : "MIT"
+  },
 
-  "createdAt"       : "2025-11-27T02:26:21.875Z"
+  "author"          : {
+    "id"            : "maysara-elshewehy",
+    "name"          : "Maysara",
+    "url"           : "https://github.com/maysara-elshewehy",
+    "email"         : "maysara.elshewehy@gmail.com"
+  },
+
+  "createdAt"       : "2025-11-27T08:31:02.855Z"
 }

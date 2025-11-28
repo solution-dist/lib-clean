@@ -33,7 +33,7 @@
 	"scripts"			: {
 		"build"			: "tsup",
 		"start"			: "tsup && node dist/main.js",
-		"test"			: "{{pm}} test"
+		"test"			: "bun test"
 	},
 
 	"engines"			: { "bun": ">=1.3.3" },
