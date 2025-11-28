@@ -3,7 +3,7 @@
 <br>
 <div align="center">
     <p>
-        <img src="./assets/img/logo.png" alt="logo" style="" height="100" />
+        <img src="./assets/img/logo.png" alt="logo" style="" height="80" />
     </p>
 </div>
 
