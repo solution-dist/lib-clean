@@ -5,10 +5,10 @@
 
   "repo"            : {
     "org"           : "@solution-dist",
-    "name"          : "lib-pure",
+    "name"          : "lib-clean",
     "version"       : "0.0.1",
     "desc"          : "...",
-    "url"           : "https://github.com/solution-dist/lib-pure",
+    "url"           : "https://github.com/solution-dist/lib-clean",
     "kw"            : [ "..." ],
     "license"       : "MIT"
   },
