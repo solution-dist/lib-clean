@@ -70,19 +70,20 @@
             - ##### Root
 
                 ```bash
-                ┣ assets        # The assets folder
-                ┃ ┗ ...
+                ┣ assets
+                ┃ ┗ ...            #  (png, ..)
                 ┃
-                ┣ dist          # The distribution folder
-                ┃ ┗ ...
+                ┣ dist
+                ┃ ┗ ...            # (main.js, main.js.map, ...)
                 ┃
-                ┣ src           # The source-code folder
-                ┃ ┗ main.ts    # The main entry point file
+                ┣ src
+                ┃ ┗ main.ts        # Main entry point
                 ┃
-                ┣ test          # The tests folder
-                ┃ ┗ ...
+                ┣ test
+                ┃ ┗ main.test.ts   # Main test file
                 ┃
-                ┗ .space        # The space configuration file
+                ┣ .env              # Environment configuration file
+                ┗ .space            # Space configuration file
 
                 # You can safely hide/ignore the rest of files.
                 ```
