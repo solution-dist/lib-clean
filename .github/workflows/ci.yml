@@ -24,7 +24,7 @@ jobs:
           bun-version: ${{ matrix.bun-version }}
 
       - name: Setup Space
-        run: bun install space -g
+        run: bun install @solution-lib/space -g
 
       - name: Install dependencies
         run: space install
@@ -46,7 +46,7 @@ jobs:
         uses: oven-sh/setup-bun@v1
 
       - name: Setup Space
-        run: bun install space -g
+        run: bun install @solution-lib/space -g
 
       - name: Install dependencies
         run: space install
@@ -65,7 +65,7 @@ jobs:
         uses: oven-sh/setup-bun@v1
 
       - name: Setup Space
-        run: bun install space -g
+        run: bun install @solution-lib/space -g
 
       - name: Install dependencies
         run: space install
